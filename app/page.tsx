@@ -58,7 +58,22 @@ export default function Home() {
 
                               so i need to              badly lint 
 
+akfjemasfmemsmfgksmklfgs
+            '//#region 
+            sd
+            dg
+            sdg
+            dg
+            sdg
 
+            sdggsd
+            dsgd
+            gsd
+            gsd
+            gsd
+
+            
+            //#endregion'
     it lol XD
             Find in-depth information about Next.js features and API.
           </p>
